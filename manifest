@@ -1,0 +1,11 @@
+: 1
+name: monte_carlo_pi
+version: 0.1.0-a.0.z
+summary: monte_carlo_pi C++ executable
+license: proprietary
+description-file: README.md
+url: https://example.org/monte_carlo_pi
+email: a.weber@uni-jena.de
+depends: * build2 >= 0.12.0
+depends: * bpkg >= 0.12.0
+depends: pxart

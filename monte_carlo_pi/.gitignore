@@ -1,0 +1,5 @@
+monte_carlo_pi
+
+# Testscript output directory (can be symlink).
+#
+test-monte_carlo_pi
